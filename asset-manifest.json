@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MediCapsE-cell/static/css/main.4222241e.css",
-    "main.js": "/MediCapsE-cell/static/js/main.7c306ce1.js",
+    "main.js": "/MediCapsE-cell/static/js/main.92e6c5df.js",
     "static/js/787.0413bfe3.chunk.js": "/MediCapsE-cell/static/js/787.0413bfe3.chunk.js",
     "static/media/teambg.mp4": "/MediCapsE-cell/static/media/teambg.fb2479a51091b11d20af.mp4",
     "static/media/Moiz.jfif": "/MediCapsE-cell/static/media/Moiz.1da982221f2577a6d5df.jfif",
@@ -85,11 +85,11 @@
     "static/media/slick.woff": "/MediCapsE-cell/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/MediCapsE-cell/index.html",
     "main.4222241e.css.map": "/MediCapsE-cell/static/css/main.4222241e.css.map",
-    "main.7c306ce1.js.map": "/MediCapsE-cell/static/js/main.7c306ce1.js.map",
+    "main.92e6c5df.js.map": "/MediCapsE-cell/static/js/main.92e6c5df.js.map",
     "787.0413bfe3.chunk.js.map": "/MediCapsE-cell/static/js/787.0413bfe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4222241e.css",
-    "static/js/main.7c306ce1.js"
+    "static/js/main.92e6c5df.js"
   ]
 }
